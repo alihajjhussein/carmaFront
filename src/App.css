@@ -1,0 +1,27 @@
+.credit-card-form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.credit-card-input {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.expiration-date {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.expiration-input {
+  width: 49%;
+}
